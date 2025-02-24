@@ -1,7 +1,5 @@
 # The Meal DB API
 
-A brief description of the project, highlighting its main functionality and purpose.
-
 ## 📌 Index
 
 - [About the Project](#-about-the-project)
